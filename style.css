@@ -1,0 +1,248 @@
+body {
+
+  background-color: #3F3F3F;
+  overflow: hidden;
+}
+
+.aboutme {
+  position: absolute;
+  width: 127px;
+  height: 21px;
+  left: 40px;
+  top: 35px;
+
+  font-family: Raleway Medium;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.3em;
+
+  color: #000000;
+}
+
+.myview {
+  position: absolute;
+  width: 110px;
+  left: 40px;
+  height: 21px;
+  top: 60px;
+
+  font-family: Raleway Medium;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.3em;
+
+  color: #000000;
+}
+
+.skills {
+  position: absolute;
+  width: 69px;
+  left: 80px;
+  height: 21px;
+  top: 170px;
+
+  font-family: Raleway Medium;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.3em;
+
+  color: #000000;
+}
+
+.blog {
+  position: absolute;
+  width: 55px;
+  height: 21px;
+  left: 80px;
+  top: 220px;
+
+  font-family: Raleway Medium;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.3em;
+
+  color: #000000;
+}
+
+.bgblock {
+
+  position: absolute;
+  width: 1853px;
+  height: 902px;
+  left: 36px;
+  top: 32px;
+
+  background: #D9D9D9;
+  z-index: -1;
+
+}
+
+.line1 {
+position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 32px;
+overflow: hidden;
+
+border: 0.5px solid #FF1C1C;
+transform: rotate(0deg);
+z-index: -1;
+}
+
+.line2 {
+position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 619px;
+
+border: 0.5px solid #FF1C1C;
+transform: rotate(0deg);
+z-index: -1;
+}
+
+.line3 {
+position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 934px;
+
+border: 0.5px solid #FF1C1C;
+transform: rotate(0deg);
+z-index: -1;
+}
+
+.line4 {
+  position: absolute;
+  width: 970px;
+  height: 0px;
+  left: -100px;
+  top: 485px;
+
+  border: 0.5px solid #FF1C1C;
+  transform: rotate(90deg);
+z-index: -1;
+}
+
+.line5 {
+  position: absolute;
+  width: 970px;
+  height: 0px;
+  left: 850px;
+  top: 485px;
+
+  border: 0.5px solid #FF1C1C;
+  transform: rotate(90deg);
+z-index: -1;
+}
+
+.line6 {
+  position: absolute;
+  width: 970px;
+  height: 0px;
+  left: 1403px;
+  top: 485px;
+
+  border: 0.5px solid #FF1C1C;
+  transform: rotate(90deg);
+z-index: -1;
+}
+
+.line7 {
+  position: absolute;
+  width: 970px;
+  height: 0px;
+  left: -450px;
+  top: 485px;
+
+  border: 0.5px solid #FF1C1C;
+  transform: rotate(90deg);
+z-index: -1;
+}
+
+.portfolio {
+  position: absolute;
+  width: 519px;
+  height: 84px;
+  left: 680px;
+  top: 270px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 75px;
+  letter-spacing: 0.3em;
+
+  color: #000000;
+}
+
+.uxui {
+  position: absolute;
+width: 49px;
+height: 64px;
+left: 680px;
+top: 320px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.3em;
+
+color: #000000;
+}
+
+.graphic {
+  position: absolute;
+width: 49px;
+height: 64px;
+left: 775px;
+top: 380px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.3em;
+
+color: #000000;
+}
+
+.branding {
+  position: absolute;
+  width: 49px;
+  height: 64px;
+  left: 850px;
+  top: 450px;
+  
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 0.3em;
+  
+  color: #000000;
+}
+
+.iconbe {
+position: absolute;
+left: 90.62%;
+right: 7.39%;
+top: 6.25%;
+bottom: 91.29%;
+
+}

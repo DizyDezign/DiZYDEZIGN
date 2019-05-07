@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Тег MENU</title>
+ </head>
+ <body>
+  <menu type="toolbar">
+   <li>
+    <menu label="Файл">
+      <button type="context">Новый...</button>
+      <button type="context">Открыть...</button>
+      <button type="context">Сохранить</button>
+    </menu>
+   </li>
+   <li>
+     <menu label="Правка">
+      <button type="button">Копировать</button>
+      <button type="button">Вырезать</button>
+      <button type="button">Вставить</button>
+     </menu>
+    </li>
+  </menu>
+ </body>
+</html>
